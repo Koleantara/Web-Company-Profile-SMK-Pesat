@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif; 
     text-decoration: none;
+    
 }
 body{
     background-color: #f0f0f0;
@@ -213,6 +214,7 @@ li{
 }
 ul{
     list-style-type: none;
+    padding: 10px;
 }
 
 .porto-dkv{
@@ -235,6 +237,7 @@ ul{
     color: #0c084c;
     /* background-color: azure; */
     padding: 20px;
+    align-items: left;
 
     
 }
@@ -309,7 +312,7 @@ ul{
     background-color: #0C084C;
     color: white;
     border-radius: 8px;
-    padding: 10px 20px;
+    padding: 10px 37px;
     text-align: center;
     display: inline-block;
     margin-top: 20px;
@@ -321,8 +324,6 @@ ul{
     justify-content: center;
     margin: 50px 0px 20px 0px;
     padding: 12px 24px;
-
-
     font-weight: 700;
 }
 .text{
@@ -369,10 +370,6 @@ ul{
         height: 35%;
         align-items: center;
     }
-    .gallery{
-        flex-direction: column;
-        align-items: center;
-      }
     .filter_btn{
         margin: 10px 0px;
         align-items: center;
@@ -382,4 +379,127 @@ ul{
         display: none;
     }
 }
-
+.alasan{
+    display: flex;
+    justify-content: center;
+}
+.tabel1{
+    background-color: #F2F5F7;
+    color: black;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30px;
+    
+}
+.tabel2{
+    background-color: #FCEEEa;
+    color: black;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30px;
+    
+}
+.tabel3{
+    background-color: #F2F5F7;
+    color: black;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30px;
+    
+}
+.tabel1 img{
+    Padding-top: 2 0px;
+    width: 130%;
+    
+}
+.tabel2 img{
+    Padding-top: 2 0px;
+    width: 120%;
+    
+}
+.tabel3 img{
+    Padding-top: 2 0px;
+    width: 130%;
+    
+}
+h4{
+    color: #0C084C;
+}
+h1{
+    color: #0C084C;
+}
+.porto-rpl2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.web1{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.web2{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.web3{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.web4{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.porto-rpl2 img{
+    width: 100%;
+}
+.kunjungi{
+    background-color: #F1A204;
+    color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.porto-rpl2 .kunjungi {
+    background-color: #F1A104;
+    color: white;
+}
+.kunjungi i{
+    color: white;
+}
+.setifikat{
+    display: flex;
+    justify-content: center;
+}
+.kompetensi1{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 10px;
+}
+.kompetensi2 img{
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+}
+.kompetensi3{
+    background-color: #F2F5F7;
+    color: #0C084C;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 10px;
+}
