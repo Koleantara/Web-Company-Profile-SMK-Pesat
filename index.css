@@ -328,7 +328,27 @@ ul{
 }
 .text{
     width: 70vh;
-
+}
+.ajakan{
+    display: flex;
+}
+.plaque img{
+    width: 350px;
+}
+.kotak{
+    background-color: #F1A104;
+    padding: 60px;
+    border-radius: 10px;
+}
+.kotak p{
+    color: white;
+}
+.footer{
+    background-color: #e6e6e6;
+    padding: 30px;
+}
+.footer p{
+    color: white;
 }
 @media screen and (max-width: 600px) {
     .hero{
